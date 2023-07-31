@@ -1,4 +1,5 @@
-<h1 align="center">Hello World! 👋 I'm Sonal Kamat</h1>
+[![MasterHead](https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)](https://github.com/Skamat2006)
+<h1 align="center">Hi!👋 I'm Sonal Kamat</h1>
 
 <h3 align="center">A passionate software developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
