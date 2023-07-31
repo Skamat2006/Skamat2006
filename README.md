@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **Social network**
 
 - 🌱 I’m currently learning **React**
+- 💬 Ask me about Go and Goa 🏖️ 
+- ⚡ Fun fact: Big Fan of the ⚡ emoji
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
