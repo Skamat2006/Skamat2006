@@ -2,14 +2,15 @@
 <h1 align="center">Hi! I'm Sonal Kamat</h1>
 
 <h3 align="center">A passionate software developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> -->
 
 ## About me:
-- 🔭 I’m currently working on **Social network**
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about Go and Goa 🏖️ 
-- ⚡ Fun fact: Big Fan of the ⚡ emoji
-- 💼 Open To Job Opportunities
+- 🔭 Fast learner and eager to explore new technologies.
+- 🌱 Always questioning the status quo and wanting to improve.
+- 💜 Kind people are my kinda people
+- ⚡ Committed to face fears & overcome them.
+- 😀 I like to cook, code, read, listen to podcasts and travel.
+
 
 ## Connect with me:
 <p align="left">
@@ -35,14 +36,6 @@
 </p>
 
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skamat2006&show_icons=true&locale=en&layout=compact&theme=dark" alt="skamat2006" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=skamat2006&show_icons=true&locale=en&layout=compact&theme=dark" alt="skamat2006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skamat2006&show_icons=true&locale=en&theme=dark" alt="skamat2006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skamat2006&&theme=dark" alt="skamat2006" /></p>
-
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skamat2006&theme=dark" /></p>
-
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=skamat2006&label=Profile%20views&color=0e75b6&style=flat" alt="skamat2006" /> </p>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=skamat2006&label=Profile%20views&color=0e75b6&style=flat" alt="skamat2006" /> </p>
